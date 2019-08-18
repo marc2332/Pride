@@ -1,0 +1,65 @@
+#top_bar_app > img {
+	content: url(https://i.imgur.com/EbOo1Hk.png);
+}
+.window_title2 {
+	padding-top: 8px !important;
+}
+.navbar button {
+	padding: 30px 0 !important;
+	margin: 8px 0px !important;
+	padding: 12px 18px !important;
+	background-color: #111111 !important;
+}
+.navbar button.active:hover {
+	background: #a6357b !important;
+}
+#content_app > .g_editors > .g_editors_editors img.emoji-normal {
+    height: 28px;
+    padding-left: 4px;
+    padding-bottom: 1.5px;
+    content: url(https://i.imgur.com/gQbTmPq.png);
+}
+.dropdown-content button:hover {
+    background: linear-gradient(to top left, #735de1, #e15d96) !important;
+}
+.dropdown-content > button:not(.dropbtn) div .bba {
+	fill: #fff !important;
+}
+.dropdown-content > button:not(.dropbtn):hover div .bba {
+	fill: #111 !important;
+}
+.dropdown-content > button:not(.dropbtn) div .bbo {
+    stroke: #fff !important;
+}
+.dropdown-content > button:not(.dropbtn) div .aba {
+    fill: white !important;
+}
+#content_app .g_editors {
+	border: 1.5px solid #a6357b !important;
+    border-bottom: 0px !important;
+    border-right: 0px !important;
+	border-top-left-radius: 15px !important;
+}
+.g_tabs_bar .tabs .close_tab:hover {
+	color: #ff7acd !important;
+    stroke: #ff7acd !important;
+}
+.dropdown-content > button:not(.dropbtn):hover {
+    border-radius: 5px !important;
+    border-top-left-radius: 0px !important;
+}
+.dropdown-content {
+	border-radius: 9px !important;
+    border-top-left-radius: 0px !important;
+}
+#context_menu > button {
+    border-radius: 8px !important;
+    background-color: #212121 !important;
+}
+#context_menu > button:hover {
+    background: linear-gradient(to top left, #735de1, #e15d96) !important;
+}
+#context_menu {
+	background-color: #212121 !important;
+	border-radius: 6px !important;
+}

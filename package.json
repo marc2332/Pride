@@ -1,0 +1,33 @@
+{
+   "name":"Pride",
+   "version":"1.0",
+   "author":"Nicola Nicolov",
+   "description":"A minimalist LGBTQ supportive theme.",
+   "folder":"Pride",
+   "highlight" : "default",
+   "type":"custom_theme",
+   "css":["main.css"],
+   "colors": {
+        "primaryColor": "#121212",
+        "secondaryColor": "#05050A",
+        "accentColor":"linear-gradient(to top left, #735de1, #e15d96)",
+        "accentLightColor":"#ff7acd",
+        "accentDarkColor":"#a6357b",
+        "editor-background-color": "#05050A",
+        "white-black": "#FFF",
+        "black-white": "#FFF",
+        "widget-color": "#FFFFFF10",
+        "buttons-roundness":"5px",
+        "dropmenu-background-color": "#050505",
+        "dropmenu-span-color": "#555",
+        "titleBar-icons-color":"#FFF",
+        "window-radius":"20px",
+        "window-border-color":"#ff7acd",
+        "notifications-background-color":"#25252A",
+        "notifications-window-radius":"5px",
+        "shadows":"rgba(0,0,0,0)",
+        "scalation":"0.98",
+        "scroll-color":"rgba(250,250,255,0.10)",
+        "scroll-color-hover":"rgba(250,250,255,0.25)"
+    }
+}   
