@@ -1,5 +1,5 @@
 #top_bar_app > img {
-	content: url(https://i.imgur.com/EbOo1Hk.png);
+	content: url(app_icon.png);
 }
 .window_title2 {
 	padding-top: 8px !important;
@@ -17,7 +17,7 @@
     height: 28px;
     padding-left: 4px;
     padding-bottom: 1.5px;
-    content: url(https://i.imgur.com/gQbTmPq.png);
+    content: url(rainbow_emoji.png);
 }
 .dropdown-content button:hover {
     background: linear-gradient(to top left, #735de1, #e15d96) !important;
