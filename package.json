@@ -5,6 +5,7 @@
    "description":"A minimalist LGBTQ supportive theme.",
    "folder":"Pride",
    "highlight" : "default",
+"logo":"logo.svg",
    "type":"custom_theme",
    "css":["main.css"],
    "colors": {
